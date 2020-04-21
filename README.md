@@ -1,8 +1,7 @@
 Pallavi Darisi
+Student NO-190678627
+email id: p.darisi
 
-student no-190678627
-
-email-id- p.darisi@se19.qmul.ac.uk
 
 Implementing RESTful services in Python and Flask
 
